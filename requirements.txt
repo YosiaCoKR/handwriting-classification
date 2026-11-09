@@ -5,3 +5,6 @@ pandas
 matplotlib
 joblib
 ipykernel
+seaborn
+lightgbm
+xgboost
